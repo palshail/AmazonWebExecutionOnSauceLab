@@ -1,6 +1,5 @@
 package Script;
 
-import java.net.URL;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -17,8 +16,8 @@ public class BaseClass {
 	
 	public WebDriver driver;
 	
-	public static final String USERNAME = "blajai_software";
-	public static final String ACCESS_KEY = "593c7c5e-3206-48e1-8efd-6c996e8cdb10";
+	public static final String USERNAME = "pal_shail88";
+	public static final String ACCESS_KEY = "f9a86fb4dd6b4ad4aa33b34ff05c3724";
 	public static final String url = "https://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.us-west-1.saucelabs.com:443/wd/hub";
 			
 			
